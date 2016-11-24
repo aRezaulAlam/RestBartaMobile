@@ -1,0 +1,24 @@
+{
+  "name":"Sammy Babu",
+  "age":2,
+  "childResponseQuestions": [{
+
+    "respondedQuestionId":1,
+    "userResponse":false
+  },
+    {
+
+      "respondedQuestionId":2,
+      "userResponse":true
+    },
+    {
+
+      "respondedQuestionId":3,
+      "userResponse":true
+    }],
+
+  "parent": {
+    "id":1
+  }
+
+}
